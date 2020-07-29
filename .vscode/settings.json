@@ -1,0 +1,36 @@
+{
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "files.exclude": {
+    "**/.git": false
+  },
+  "files.trimTrailingWhitespace": true,
+  "javascript.format.insertSpaceAfterConstructor": true,
+  "go.testEnvFile": "",
+  "go.docsTool": "gogetdoc",
+  "go.testFlags": ["-v", "-count=1"],
+  "go.buildTags": "",
+  "go.buildFlags": [],
+  "go.lintFlags": ["--enable-all", "--new"],
+  "go.vetFlags": [],
+  "go.coverOnSave": false,
+  "go.useCodeSnippetsOnFunctionSuggest": false,
+  "go.formatTool": "goimports",
+  "go.gocodeAutoBuild": false,
+  "go.goroot": "/usr/local/Cellar/go/1.14/libexec",
+  "go.gopath": "/Users/91pintuan/go",
+  "go.autocompleteUnimportedPackages": true,
+  "go.formatOnSave": true,
+  "go.useLanguageServer": true,
+  "go.testTimeout": "30s",
+  "[go]": {
+    "editor.formatOnSave": false
+  },
+  "go.languageServerExperimentalFeatures": {
+    "format": true,
+    "diagnostics": true,
+    "documentLink": true
+  },
+  "go.languageServerFlags": ["-rpc.trace"],
+  "go.lintTool": "golangci-lint"
+}

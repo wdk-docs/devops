@@ -1,0 +1,17 @@
+[[main]]
+  name = "学习"
+  url = "/docs/"
+  identifier = "docs"
+  weight = 10
+
+[[main]]
+  name = "FAQ"
+  url = "/faq/"
+  identifier = "faq"
+  weight = 20
+
+[[main]]
+  name = "发布"
+  url = "/issue/"
+  identifier = "issue"
+  weight = 20
